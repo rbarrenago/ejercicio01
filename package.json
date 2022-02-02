@@ -1,5 +1,6 @@
 {
   "name": "my-awesome-package",
   "version": "1.0.0"
-  "description": "A Vue.js project"
+  "description": "A Vue.js project",
+  "main": "src/main.js"
 }
